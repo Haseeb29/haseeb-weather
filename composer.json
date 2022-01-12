@@ -1,0 +1,19 @@
+{
+    "name": "haseeb/weather",
+    "description": "it's a weather package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Haseeb\\Weather\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Haseeb Ali",
+            "email": "ha.haseeb29@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
